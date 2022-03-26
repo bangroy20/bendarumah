@@ -64,7 +64,7 @@ if (isset($_POST["login"])) {
 
     <br>
     <br>
-    <a href="registrasi.php">Daftar !!</a>
+    <a href="registrasi.php">Daftar sekarang</a>
 </body>
 
 </html>
